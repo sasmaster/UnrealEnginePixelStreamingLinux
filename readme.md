@@ -1,5 +1,4 @@
 ## Aidan Possemiers' fork of the Unreal Engine
-=====================================
 
 This fork contains the branches for my open pull requests against the upstream UnrealEngine repository, as well as branches for projects such as [Pixel Streaming for Linux](https://adamrehn.com/articles/pixel-streaming-in-linux-containers/):
 
